@@ -1,0 +1,13 @@
+#centerbox1{
+
+	position: absolute;
+	top: 50%;
+	
+	background-color:yellow;
+	height: 100px;
+	width: 100px;
+	left:50%;
+
+
+
+}
